@@ -1,7 +1,7 @@
 # Weight Initialization Comparison with tanh (Glorot vs Random)
 
 ## Overview
-This project explores how different **weight initialization techniques** affect neural network training when using the **tanh activation function**.
+This project explores how different **weight initialization techniques** affect neural network training when using **tanh activation function**.
 
 Improper initialization can cause issues such as:
 - Vanishing gradients
